@@ -26,7 +26,13 @@
 
 **三、实验方法**
 
-实验里的核心代码、注释
+##### 实验流程图
+
+```
+![流程图](\Users\Administrator\Pictures)
+```
+
+##### 实验里的核心代码、注释
 ```
 	//父类People的有参构造方法
 	People(int id,String name,String sex,String major){
