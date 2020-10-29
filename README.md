@@ -29,7 +29,7 @@
 ##### 实验流程图
 
 ```
-![](\Users\Administrator\Pictures\flow chart.PNG)
+![](http://m.qpic.cn/psc?/V14OgiUM41LMqp/ruAMsa53pVQWN7FLK88i5hyXvgFzBcC59P9eulreqT7Y8xD1a*X*w4ni2wI55MR683e8IFaZcyAZOIPM*f3L546OhRbSX5n2e1Zrxk92Xik!/b&bo=dAXSAgAAAAADB4M!&rf=viewer_4)
 ```
 
 ##### 实验里的核心代码、注释
