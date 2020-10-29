@@ -28,7 +28,7 @@
 
 ##### 实验流程图
 
-![](https://h5.qzone.qq.com/page/photo?init=photo.v7/common/viewer2/index&picKey=NR8AVjZiQ2dBeE56VTJNek16TlRBeTlGR2FYNGJKN1FJIQcAcGhvdG9neg!!&ownerUin=1756333502&appid=4&topicId=V14OgiUM41LMqp_NR8AVjZiQ2dBeE56VTJNek16TlRBeTlGR2FYNGJKN1FJIQcAcGhvdG9neg!!_0_0&pre=http%3A%2F%2Fa1.qpic.cn%2Fpsc%3F%2FV14OgiUM41LMqp%2FruAMsa53pVQWN7FLK88i5hyXvgFzBcC59P9eulreqT7Y8xD1a*X*w4ni2wI55MR683e8IFaZcyAZOIPM*f3L546OhRbSX5n2e1Zrxk92Xik!%2Fm%26ek%3D1%26kp%3D1%26pt%3D0%26bo%3DdAXSAgAAAAADJ6M!%26tl%3D1%26vuin%3D1756333502%26tm%3D1603947600%26sce%3D60-3-3%26rf%3D0-0&useqzfl=1&useinterface=1&noCloseBtn=0&inqq=1)
+![](https://github.com/jiaohongxiao/-3/blob/main/flow%20chart.PNG)
 
 ##### 实验里的核心代码、注释
 ```
