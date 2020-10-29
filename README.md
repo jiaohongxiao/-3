@@ -29,7 +29,7 @@
 ##### 实验流程图
 
 ```
-![流程图](\Users\Administrator\Pictures)
+![](\Users\Administrator\Pictures\flow chart.PNG)
 ```
 
 ##### 实验里的核心代码、注释
